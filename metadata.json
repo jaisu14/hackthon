@@ -1,0 +1,6 @@
+{
+  "name": "ClauseGuard AI — Legal Contract Risk & Contradiction Analyzer",
+  "description": "Detect hidden contract risks, cross-jurisdiction conflicts, and clause contradictions before they become legal problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
